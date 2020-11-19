@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.nav-item{
+  list-style-type: none;
+}
+
+.border-bottom{
+  border-bottom: 1px solid #eee;
+}
+.border-top{
+  border-bottom: 1px solid #eee;
+}
+.text-size{
+  font-size: 14px;
+}
+.small-text{
+  font-size: .65rem;
+}
+.about{
+  font-size: 17px;
+}
+.navbar{
+  position: fixed;
+  border-bottom: 1px solid #dee2e6 !important;
+}
+.support{
+  padding-top: 20px !important;
+}
+.input{
+  margin: auto;
+  width: 70% !important;
+}
